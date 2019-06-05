@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetadata>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+  <name>No "Ate Without A Table"</name>
+  <author>CrunchyDuck</author>
+  <description>Removes the debuff of eating without a table!\nNo longer shall you suffer the consequences of poor planning, or bad pathing, at least when it comes to tables.</description>
+</ModMetadata>
